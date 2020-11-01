@@ -1,0 +1,26 @@
+:icons: font
+
+:xrefstyle: full
+:listing-caption: Listing
+:doctype: book
+:icons: font
+:toc: macro
+:toclevels: 4
+:toc-title: Table of Contents
+:lightrun-version: 0.7
+:pdf-page-size: A4
+:pdf-page-margin: [1.1in, 0.5in, 0.8in, 0.5in]
+
+= Lightrun User Guide
+
+include::introduction.asciidoc[]
+include::install.asciidoc[]
+include::plugin.asciidoc[]
+include::backend.asciidoc[]
+include::agent.asciidoc[]
+include::exceptions.asciidoc[]
+// include::cli.asciidoc[]
+include::integration.asciidoc[]
+include::server-integrations.asciidoc[]
+include::troubleshooting.asciidoc[]
+
