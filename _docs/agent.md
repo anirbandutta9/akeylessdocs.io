@@ -1,6 +1,28 @@
 ---
-date: 2020-11-07
+layout: doc
 title: Agent
+date: 2020-11-08 8:14:30 +0600
+post_image: assets/images/service-icon3.png
+tags: [Profile]
+toc: true
+custom_links:
+- text: Installation
+  url: /
+- text: Getting Started
+  url: /pages/support
+- text: Product Manual
+  url: /explore-topics/
+  submenu:
+  - text: Invoice
+    url: /blog-post-left-sidebar
+  - text: Payment
+    url: /blog-post-right-sidebar
+  - text: Another Link
+    url: /tag/education
+- text: Support
+  url: https://support.themeix.com	
+- text: Contact
+  url: /pages/contact
 ---
 
 Agent {#_agent}

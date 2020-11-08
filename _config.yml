@@ -8,10 +8,10 @@
 ####################################################
 
 # Site settings
-title: "Doxy - Documentation Website"
-email: "themeix@gmail.com"
-description: "Doxy is a responsive Jekyll template for your documentation or knowledgebase website"
-keywords: "jekyll, minimal jekyll, jekyll theme, responsive jekyll, seo friendly blog, super fast blog, responsive"
+title: "Lightrun official documentation"
+email: "support@lightrun.com"
+description: "Lightrun - powerful production debugger"
+keywords: "debugging, observability, tracing, logs"
 baseurl: "/docs.lightrun.com" # the subpath of your site, e.g. /blog
 url: " "
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
@@ -42,12 +42,12 @@ plugins:
   - jekyll-seo-tag  
 
 collections:
-  team_members:
-    output: true
-    permalink: /team_members/:path/
-  testimonials:
-    output: true
-    permalink: /testimonials/:path/
+ # team_members:
+  #  output: true
+   # permalink: /team_members/:path/
+ # testimonials:
+ #   output: true
+ #   permalink: /testimonials/:path/
   docs:
     output: true
     permalink: /docs/:title/
