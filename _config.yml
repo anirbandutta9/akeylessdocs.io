@@ -1,18 +1,10 @@
-####################################################
-#
-# Welcome to Doxy Jekyll Template
-#
-# Product Link : https://themeix.com/product/doxy-documentation-website-jekyll-template/
-# Version : v4.2.0
-#
-####################################################
 
 # Site settings
-title: "Lightrun official documentation"
-email: "support@lightrun.com"
-description: "Lightrun - powerful production debugger"
-keywords: "debugging, observability, tracing, logs"
-baseurl: "/docs.lightrun.com" # the subpath of your site, e.g. /blog
+title: "Akeyless official documentation"
+email: "support@akeyless.com"
+description: "Akeyless - powerful secrets management"
+keywords: "secrets, zero trust"
+baseurl: "/docs.akeyless.io" # the subpath of your site, e.g. /blog
 url: " "
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
@@ -65,7 +57,7 @@ pagination:
   debug: false
 
   # The default document collection to paginate if nothing is specified ('posts' is default)
-  collection: 'posts'
+  collection: 'docs'
 
   # How many objects per paginated page, used to be `paginate` (default: 0, means all)
   per_page: 2

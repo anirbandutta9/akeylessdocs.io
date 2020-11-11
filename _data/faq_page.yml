@@ -1,24 +1,13 @@
 - title: General Questions
   id: faqaccordion1
   subfaq:
-  - question: Fames ac turpis egestas integer eget aliquet?
-    answer: It works using the Bootstrap 4 collapse component with cards to make a vertical accordion that expands and collapses as questions are toggled.
+  - question: What is Zero Trust? 
+    answer: The principle of least privilege
     
 
-
-    
-- title: Billing Questions
+- title: Installation questions
   subfaq:
-  - question:  Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras fermentum?
-    answer: Sit amet risus nullam eget felis eget nunc lobortis mattis aliquam faucibus purus in massa tempor nec feugiat nisl pretium fusce id velit ut tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse sed nisi lacus sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim
-    
-
-
-    
-- title: Support Question
-  subfaq:
-  - question: aliquam etiam erat velit scelerisque in dictum non consectetur a erat nam at lectus urna?
-    answer: It works using the Bootstrap 4 collapse component with cards to make a vertical accordion that expands and collapses as questions are toggled.
-
-
+  - question:  How do I install on-prem?
+    answer: we only support SaaS.
+   
     

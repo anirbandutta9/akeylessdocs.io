@@ -2,8 +2,8 @@
 
 - text: Home
   url: /
-- text: Support
-  url: /pages/support
+#- text: Support
+ # url: /pages/support
 #- text: Blog
 #  url: /blog
 #  submenu:
@@ -11,25 +11,18 @@
 #    url: /blog-post-left-sidebar
 #  - text: Blog Post - Right Sidebar
 #    url: /blog-post-right-sidebar
-- text: Pick your layout
-  url: /explore-topics
-  submenu:
-  - text: With All Content Links
-    url: /docs/agent/
-  - text: Only TOC links
-    url: /docs/cloud-flare/
-  - text: Fullwidth - no navigation
-    url: /docs/client-editable-jekyll-sites/
-- text: Pages
-  url: /
+- text: Docs
+  url: /ssh-certificates
+
+- text: More help
+  url: /rdp
   submenu:
   - text: Changelog
     url: /pages/changelog
-  - text: Privacy Policy
-    url: /pages/privacy-policy    
+
   - text: FAQ
     url: /pages/faq 
-  - text: Submit Ticket
-    url: /pages/submit-ticket
+ # - text: Submit Ticket
+ #   url: /pages/submit-ticket
 - text: Contact
   url: /pages/contact
