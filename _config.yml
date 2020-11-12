@@ -4,7 +4,7 @@ title: "Akeyless official documentation"
 email: "support@akeyless.com"
 description: "Akeyless - powerful secrets management"
 keywords: "secrets, zero trust"
-baseurl: "/docs.akeyless.io" # the subpath of your site, e.g. /blog
+baseurl: "/akeyless.io" # the subpath of your site, e.g. /blog
 url: " "
 cover_image: "https://themeix.com/wp-content/uploads/dooxy-responsive-html-template-preview.png" # Image will Display in Social Media When share the website
 facebook: "https://www.facebook.com"
